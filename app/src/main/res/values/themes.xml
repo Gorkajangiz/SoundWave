@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectSoundwaveV2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/soundwave</item>
+        <item name="colorPrimaryVariant">@color/soundwave</item>
+    </style>
+
+    <style name="Theme.ProjectSoundwaveV2" parent="Base.Theme.ProjectSoundwaveV2" />
+</resources>
