@@ -17,10 +17,10 @@ Un proyecto creado durante inicios de mi aprendizaje de AndroidStudio para enten
 <h2>🖥️ Capturas de la aplicación</h2>
 
 <h3>Landing page</h3>
-<img src="resReadme/soundwave.jpg width="700"/>
+<img src="resReadme/soundwave.jpg width="250"/>
 
 <h3>Detalle de canciones</h3>
-<img src="resReadme/soundwave1.jpg" width="700"/>
+<img src="resReadme/soundwave1.jpg" width="250"/>
 
 ---
 
